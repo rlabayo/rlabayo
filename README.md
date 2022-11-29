@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, Rhea here! 👋✨✨
+
+- I'm currently working on improving my personal repository and to make it become interesting...
+- 
+
+⚡ Fun fact:
+- I'm a Software Engineer 
+- Frontend and Backend Web Developer
+- I do PHP, CodeIgniter Framework, MySql, REST API, JavaScript, jQuery, HTML, CSS, Bootstrap, Google Maps API and implementing SEO.
 
 <!--
 **rlabayo/rlabayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
