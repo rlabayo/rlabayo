@@ -1,8 +1,3 @@
-# Resume
 
-Uploaded resume
+https://user-images.githubusercontent.com/51326867/207555727-4aac2c90-52bf-4fd6-9c6c-adea76a4ed75.mov
 
-
-![Alt text](/eon-home.png "Optional title")
-
-[Resume](https://docs.google.com/viewer?url=https://github.com/rlabayo/Portfolio/raw/main/Rhea%20Labayo%20-%20Resume%20-%20Proj.pdf)
