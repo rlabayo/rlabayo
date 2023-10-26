@@ -1,4 +1,5 @@
 ![Alt text](assets/images/logo-rl-white.png) 
+
 # Hi, I'm Rhea Labayo 👋✨✨ ⚡
 
 I'm a Software Engineer specializing in building websites. I'm a passionate full stack web developer from the Philippines, my passion is to deliver a functional and a good looking website. I am also open to learn new web development tools so that I can deliver more powerful websites. 
