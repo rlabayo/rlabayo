@@ -28,4 +28,4 @@ Web development tools:
 
 Sharing with you a simple portfolio that I made and I will still improve it to share about myself, experiences and the skills that I have. To check my portfolio, kindly click this [link](https://rhealabayo.com/).
 
-Thank you very much.
+Thank you very much and I'm looking forward to talk to you.
