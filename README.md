@@ -51,7 +51,7 @@
 #### Sharing with you a simple portfolio that I made and I will still improve it to share about myself, experiences and the skills that I have. To check my portfolio, kindly click this [link](https://rhealabayo.com/).
 
 
-💬 Ask me about anything and I'm happy to help. You can contact me to this email address rdclabayo@yahoo.com.
+💬 Ask me about anything and I'm happy to help. You can contact me to this email address rhea.labayo08@gmail.com.
 
 
 Thank you very much and I'm looking forward to talk to you...
